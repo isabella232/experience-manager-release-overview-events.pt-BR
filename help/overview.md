@@ -5,12 +5,12 @@ user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Atualizações de versão do Adobe Experience Manager as a Cloud Service
+# Atualizações da versão do Adobe Experience Manager as a Cloud Service
 
 Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience Manager as a Cloud Service. São vídeos curtos, de aproximadamente 10 minutos, disponibilizados pela equipe de produtos AEM que compartilham os destaques da versão mais recente.
 
@@ -30,7 +30,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <em>Lançado em 5 de maio de 2022 </em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de versão</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
     <p>
   </td>
 </tr>  
@@ -69,12 +69,12 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <em>Lançado em 3 de fevereiro de 2022 </em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html">Notas de versão</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html?lang=pt-BR">Notas de versão</a>
     <p>
   </td>
   <td>
     <a href="./2021/2021-11-0.md">
-      <img alt="Versão 2021.11.0 do AEMCS" src="./2021/assets/2021-11-0.png" />
+      <img alt="Versão 2021.11.0 do AEM CS" src="./2021/assets/2021-11-0.png" />
     </a>
     <div>
     <a href="./2021/2021-11-0.md">
@@ -84,7 +84,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
     <em>Lançado em 16 de dezembro de 2021</em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2021/release-notes-2021-11-0.html">Notas de versão</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2021/release-notes-2021-11-0.html?lang=pt-BR">Notas de versão</a>
     <p>
   </td>
 </tr>

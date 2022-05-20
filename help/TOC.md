@@ -6,12 +6,12 @@ breadcrumb-title: Atualizações da versão do AEM CS
 source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 26%
+ht-degree: 100%
 
 ---
 
 
-# Atualizações de versão do Adobe Experience Manager as a Cloud Service {#aemcsupdates}
+# Atualizações da versão do Adobe Experience Manager as a Cloud Service {#aemcsupdates}
 
 + [Visão geral](overview.md)
 + 2022 {#2022}

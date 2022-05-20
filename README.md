@@ -1,6 +1,6 @@
 ---
 source-git-commit: 45b5e3d8839ce08c208eb30eb18c0924ba9564c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '430'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ Sua contribuição depende de quem você é e do tipo de mudanças com as quais 
 
 ### Pequenas alterações
 
-Se estiver contribuindo com atualizações secundárias por generosidade, visite o artigo e clique no link **Editar**, que o direciona à fonte GitHub do artigo. Em seguida, use a interface do GitHub para fazer suas atualizações. Consulte o [Manual do colaborador do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais informações.
+Se estiver contribuindo com atualizações secundárias por generosidade, visite o artigo e clique no link **Editar**, que o direciona à fonte GitHub do artigo. Em seguida, use a interface do GitHub para fazer suas atualizações. Consulte o [Manual do colaborador do Adobe Docs](https://docs.adobe.com/content/help/br/contributor/contributor-guide/introduction.html) para obter mais informações.
 
 As pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste repositório estão cobertos pelos termos de uso da Adobe.
 
@@ -43,7 +43,7 @@ Se você é um escritor técnico, gerente de programas ou desenvolvedor da equip
 
 Colaboradores da comunidade podem usar a interface do GitHub para edição básica ou bifurcar o repositório para fazer contribuições importantes.
 
-Consulte o [Manual do colaborador do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais detalhes.
+Consulte o [Manual do colaborador do Adobe Docs](https://docs.adobe.com/content/help/br/contributor/contributor-guide/introduction.html) para obter mais detalhes.
 
 ## Como usar markdown para formatar seu tópico
 

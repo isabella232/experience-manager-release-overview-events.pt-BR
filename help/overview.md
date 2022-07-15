@@ -4,9 +4,9 @@ description: Obtenha uma visão geral rápida dos recursos mais recentes no Adob
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 78db7decd3b6283f8a20766e7f8aa4a19adc8a26
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '162'
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <em>Data de lançamento: 9 de junho de 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de versão</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       <p>
     </td>  
     <td>
@@ -68,7 +68,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <em>Released May 5, 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de versão</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       <p>
     </td>
     <td>
@@ -83,7 +83,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <em>Lançado em 31 de março de 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de versão</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
       <p>
     </td>
   </tr>

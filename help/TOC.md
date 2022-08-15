@@ -4,7 +4,7 @@ user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience Manager as a Cloud Service
 breadcrumb-title: Atualizações da versão do AEM CS
 source-git-commit: 6393e1b8d82edca9bf2cbbfeebdd8ac821577a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
 ht-degree: 100%
 

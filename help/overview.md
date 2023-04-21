@@ -4,9 +4,9 @@ description: Obtenha uma visão geral rápida dos recursos mais recentes no Adob
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: b81d2a42145db4d00a06f1b857ce26f3da1d3ec1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '0'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
         <a href="./2023/2023-2-0.md">
           <strong>Versão | 2023.2.0</strong>
           <br/>
-        </a>
+          </a>
           <em>Data de lançamento: março de 2023 </em>
       </div>
       <p>
@@ -50,7 +50,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
           <strong>Versão | 2023.1.0</strong>
           <br/>
         </a>
-          <em>Data da versão fevereiro de 2023 </em>
+          <em>Data de lançamento: fevereiro de 2023 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
@@ -97,7 +97,7 @@ Obtenha uma visão geral rápida dos recursos mais recentes no Adobe Experience 
           <strong>Release | 2022.7.0</strong>
           <br/>
         </a>
-          <em>Release date Aug 8, 2022 </em>
+          <em>Data de lançamento: Aug 8, 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR">Notas de versão</a>
